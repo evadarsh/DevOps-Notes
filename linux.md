@@ -1,11 +1,7 @@
-# Linux Notes
+## Day 7 Linux Project
 
-Commands learned:
-
-pwd
-ls
-cd
-mkdir
-chmod
-grep
-find
+Created:
+- Server structure
+- Backup script
+- Permission management
+- Log monitoring
