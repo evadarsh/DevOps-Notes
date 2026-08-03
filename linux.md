@@ -1,7 +1,4 @@
-## Day 7 Linux Project
+## Git Learning
 
-Created:
-- Server structure
-- Backup script
-- Permission management
-- Log monitoring
+Day 1 completed.
+Day 2 completed.
