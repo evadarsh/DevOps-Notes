@@ -1,3 +1,3 @@
-# Git Notes
+## Branching
 
-Git is a version control system.
+Git branches allow developers to work on features independently.
