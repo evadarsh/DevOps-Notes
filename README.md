@@ -1,3 +1,3 @@
-## GitHub
+## Collaboration
 
-This repository is connected to GitHub using SSH.
+This change was made from a cloned repository.
