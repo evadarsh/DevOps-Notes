@@ -1,10 +1,3 @@
-# DevOps Notes
+## GitHub
 
-Learning DevOps step by step.
-
-Topics:
-- Linux
-- Git
-- Docker
-- Kubernetes
-- Cloud
+This repository is connected to GitHub using SSH.
