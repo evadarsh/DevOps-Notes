@@ -1,3 +1,3 @@
-## Collaboration
+# DevOps Notes
 
-This change was made from a cloned repository.
+This project is maintained by the RED Team.
